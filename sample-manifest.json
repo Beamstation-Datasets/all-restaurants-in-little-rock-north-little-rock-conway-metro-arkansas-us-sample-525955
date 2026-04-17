@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4b47953a-d245-4bbf-8f29-2e63fe7c96d8",
+  "export_job_id": "b9cffcc8-9af4-459a-9333-e578fb1a2e2f",
   "id_short": 525955,
-  "published_at": "2026-04-13T19:07:09Z",
+  "published_at": "2026-04-17T19:37:03Z",
   "repo_name": "all-restaurants-in-little-rock-north-little-rock-conway-metro-arkansas-us-sample-525955",
   "sample_asset_name": "beamstation_525955_restaurants-us-littlerocknorthlittlerockconwayar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/525955/beamstation_525955_restaurants-us-littlerocknorthlittlerockconwayar_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "fe3c78d6c4d0fc2492272f2d34592fcd78787324de34154e75989f102543cb6d",
-  "sample_size_bytes": 118513,
-  "total_records": 1081
+  "sample_records": 207,
+  "sample_sha256": "8e6c8111e89543c79e8ee1b0146a5f04944476a603b47ab2daa68a24c0156aec",
+  "sample_size_bytes": 721142,
+  "total_records": 2074
 }
