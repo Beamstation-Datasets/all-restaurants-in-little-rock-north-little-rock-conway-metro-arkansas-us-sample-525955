@@ -1,6 +1,6 @@
 # All Restaurants in Little Rock-North Little Rock-Conway (Metro), Arkansas, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 207 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `525955` |
 | Location | Little Rock-North Little Rock-Conway, AR |
 | Category | Restaurants |
-| Full dataset size | 1,081 records |
-| Free sample size | 25 records (2.31%) |
-| Last export | 2026-03-31T13:50:13.273098+00:00 |
+| Full dataset size | 2,074 records |
+| Free sample size | 207 records (9.98%) |
+| Last export | 2026-04-14T14:18:30.715723+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-little-rock-north-little-rock-conway-metro-arkansas-us-sample-525955/releases/download/sample-latest/beamstation_525955_restaurants-us-littlerocknorthlittlerockconwayar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
